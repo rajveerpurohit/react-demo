@@ -1,0 +1,28 @@
+ -----------------
+|  ***  REACT *** |
+ -----------------
+
+Intro
+-----
+
+* ES6 + JSX  -->  Transpiling(webpack + babel) --> Final app.js which can be read by the browser.
+* React is a JavaScript library which generates HTML for browsers.
+
+
+Setup
+-----
+
+* Git clone <git-url> / Simply download.
+
+* Every project has a bunch of intial dependencies which it relies on.
+
+* These dependencies are installed using npm(Node package manager) install.
+
+* npm start
+
+* Webpack and babel transpiles all the code to Es5 or something which the browser can understand, also it creates a local server from where we can view all these files.
+
+*
+
+
+
